@@ -1,0 +1,28 @@
+.Vision img {
+  border-radius: 50%;
+  width: 70px;
+  height: 70px;
+}
+.Vision {
+  margin: 4px;
+  padding: 12px;
+}
+.content .first {
+  display: flexbox;
+  flex-shrink: 3;
+  flex-flow: wrap;
+}
+.content .second {
+  display: flexbox;
+  flex-shrink: 3;
+  flex-flow: wrap;
+  flex-basis: auto;
+}
+.content {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  gap: 25px;
+}
