@@ -1,0 +1,43 @@
+.main-footer{
+    background-color: rgb(22, 95, 145);
+}
+#row2{
+    background-color: rgb(5, 138, 179);
+}
+h4{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.list-unstyled{
+    color: rgb(128, 19, 0);
+}
+hr{
+    height: 0.1px;
+    color: rgb(240, 244, 247);
+    background-color: white;
+}
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+.connect-us ul{
+    color: white;
+    display: inline;
+}
+ul{
+    display: inline;
+}
+.main-footer .connect-us{
+    display: block;
+    padding: 14px 0px 18px 0px;
+    border-right: 1px #c0d3e2 solid;;
+}
+.main-footer .subscribe-us{
+    display: block;
+    padding: 14px 0px 18px 0px;
+    border-right: 1px #c0d3e2 solid;;
+}

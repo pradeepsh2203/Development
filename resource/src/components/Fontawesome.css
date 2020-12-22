@@ -1,0 +1,29 @@
+#icons{
+    color: white;
+    font-size: 25px;
+    display: block;
+    /* background-color: #fff;; */
+}
+.row3 ul li{
+    padding: 2px 8px;
+    display:inline;
+    border: 2px solid  rgba(68, 186, 233, 0.952);
+    margin: 5px;
+    border-radius: 50px;
+    
+}
+.row{
+    color: white;
+    display: block;
+}
+.circle ul li{
+    /* display: inline-block; */
+    color: white;
+    text-align: center;
+    margin: 5px;
+    padding: 10px;
+}
+/* .circle{
+    border: 2px solid  rgba(224, 139, 29, 0.952);
+    border-radius: 100px;
+} */
