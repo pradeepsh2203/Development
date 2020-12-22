@@ -11,6 +11,7 @@ function App() {
          <Header/>
          <div width='100px' height='100px'></div>
          <Vision />
+    </div>
          <Footer/>
     </div>
   );
