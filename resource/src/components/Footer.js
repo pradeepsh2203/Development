@@ -1,11 +1,9 @@
 import React from "react"
 import ReactDOM from "react-dom"
-// import { Container,Row,Col } from "react-bootstrap";
 import "./Footer.css"
 import "./Fontawesome"
-import SocialButtonsPage from "./socials"
 import Fontawesome from "./Fontawesome"
-//import 'font-awesome/css/font-awesome.css'
+import 'bootstrap/dist/css/bootstrap.css';
 const Footer = () => {
     return (
         <div>
