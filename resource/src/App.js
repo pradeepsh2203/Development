@@ -4,18 +4,20 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Vision from './components/Vision';
 import Footer from './components/Footer';
 import Introduction from './components/Introduction';
+import Caoursel from "./components/Caoursel";
 
 function App() {
   return (
     <div className="page-container">
       <div className="content-wrap">
          <Header/>
+         <Caoursel />
          <Introduction/>
-         <div width='100px' height='100px'></div>
          <Vision />
-    </div>
+      </div>
          <Footer/>
-    </div>
+
+     </div>
   );
 }
 
