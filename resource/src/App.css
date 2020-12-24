@@ -10,6 +10,13 @@ src:url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 src:url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
 }
 
+
+
+body{
+  background-color:#5CDB95 !important;
+}
+
+
 .header{
   background-attachment: fixed;
   background-color:rgba(245,245,245,1);
@@ -131,4 +138,15 @@ nav:hover span {
 
 .form-dark .modal-header {
     border-bottom: none;
+}
+
+.intro-section{
+  margin: 1em !important;
+  font-family: 'Bree Serif', serif;
+  font-size:1.5rem;
+}
+@media only screen and (max-width:990px){
+  .intro-section{
+  text-align :center !important;
+};
 }

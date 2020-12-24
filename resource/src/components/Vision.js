@@ -64,7 +64,10 @@ const staggerVariant={
     }
 }
 const fontStyles={
-    fontFamily:'Monaco,Courier,Optima,Garamond',
+    color:"#05386B",
+    fontWeight:"bold",
+    fontSize:"1.5rem",
+    fontFamily:"'Bree Serif', serif",
     margin:'0 15%',
     textALign:'center',
 }
